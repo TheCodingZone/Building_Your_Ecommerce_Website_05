@@ -1,0 +1,31 @@
+.itemcontainer{
+    display: flex;
+   margin: 50px 40px;
+   padding: 20px 20px;
+  justify-content: space-around;
+}
+.image{
+    width: 250px;
+    transition: 1s;
+    
+}
+.title{
+    font-style: italic;
+    font-weight: bold
+}
+.price{
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(221, 15, 15);
+}
+.image:hover{
+   transform: scale(0.9);
+}
+.btn{
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    background-color: rgb(241, 89, 29);
+   margin-left: 120px;
+   margin-top: -58px;
+}

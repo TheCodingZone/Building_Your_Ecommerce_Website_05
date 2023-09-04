@@ -1,0 +1,29 @@
+.navbar{
+    
+    background-color: rgb(149, 115, 243);
+    font-weight: bold;
+    font-style: oblique;
+}
+.nav-item .nav-link{
+    color: antiquewhite;
+
+}
+.cart{
+ display: flex;
+  cursor: pointer;
+ 
+}
+.cartHeading{
+  color: black;
+  text-decoration: none;
+}
+.cart img{
+  height: 25px;
+  mix-blend-mode: darken;
+   
+}
+.items{
+    margin-top: -12px;
+    color: red;
+   
+}
